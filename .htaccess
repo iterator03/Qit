@@ -1,0 +1,6 @@
+Options -Indexes
+#Enable XSendFile
+XSendFile On
+#RewriteEngine On
+ErrorDocument 404 /403.html
+ErrorDocument 403 /403.html
